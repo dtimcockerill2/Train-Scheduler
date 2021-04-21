@@ -1,0 +1,15 @@
+.bg-image {
+    background-image: url(../images/3082955-architecture_black-and-white_infrastructure_railroad_railway_train_train-station.jpg);
+    /* height: 100%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.jumbo-style {
+    background-color: rgba(248, 249, 250, 0.9);
+}
+
+.card-style {
+    background-color: rgba(255, 255, 255, 0.9);
+}
